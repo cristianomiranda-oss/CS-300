@@ -2,7 +2,7 @@
 // Name        : VectorSorting.cpp
 // Author      : Cristiano Miranda
 // Version     : 1.0
-// Copyright   : Copyright © 2023 SNHU COCE
+// Copyright   : Copyright Â© 2023 SNHU COCE
 // Description : Vector Sorting Algorithms
 //============================================================================
 
